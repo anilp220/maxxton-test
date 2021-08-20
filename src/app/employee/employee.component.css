@@ -1,0 +1,16 @@
+.container {
+  margin: auto;
+  width: 75%;
+}
+
+.table table {
+  width: 100%;
+}
+
+th {
+  text-align: left;
+}
+
+.btns > button {
+  margin: 5px 5px;
+}
